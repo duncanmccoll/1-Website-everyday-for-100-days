@@ -1,4 +1,4 @@
-# 1 website everyday for 100 days
+# 100 Websites in 100 Days
 
 I will be making one website everyday for 100 days, starting 28th of June 2017.
 
