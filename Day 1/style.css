@@ -21,6 +21,20 @@ body{
 	box-shadow: 10px 10px #444;
 }
 
+#days {
+	background-color:#fff;
+	padding:0px;
+	max-width: 625px;
+	min-width: 300px;
+	margin: auto;
+	width: 50%;
+	box-shadow: 10px 10px #444;
+}
+
+#days a{
+	text-decoration: none;
+	color: blue;
+}
 h1{
 	border-bottom: solid 2px #b9b9b9;
 }
