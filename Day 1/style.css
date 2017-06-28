@@ -8,13 +8,14 @@ html {
 body{
 	padding-top: 50px;
 	line-height: 1.5;
-	background-color:#999999;
+	background-color:#AAB8C2;
 }
 
 #container {
 	background-color:#fff;
 	padding:15px;
 	max-width: 600px;
+	min-width: 300px;
 	margin: auto;
 	width: 50%;
 	box-shadow: 10px 10px #444;
@@ -24,6 +25,16 @@ h1{
 	border-bottom: solid 2px #b9b9b9;
 }
 
-li p {
-	color: red;	
+li{
+	color:#555;	
+}
+
+.twitter {
+	text-decoration: none;
+	color: #1DA1F2;
+}
+
+.github {
+	text-decoration:wavy;
+	color: #2b3137;
 }
