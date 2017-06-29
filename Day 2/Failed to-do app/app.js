@@ -1,7 +1,4 @@
 $(document).ready(function(){
-
-   
-    
     	
 	$(".add").click(function(){
 		var input = $("input[name=info]").val();
@@ -18,16 +15,15 @@ $(document).ready(function(){
         $(this).toggleClass('lineThrough').fadeOut('slow');    
       });
 
+	$(".clear").click(function(){
+		$("li").fadeOut('slow');
+	});
+	
 	$('input').focus(function() {
         $(this).val('');
       });
 
-	if($('input').val() === ""){
-		$("ol").hide();
-	} else{
-		$("ol").show();
-	};
-    
+	
 
 
 
