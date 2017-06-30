@@ -4,3 +4,8 @@ html {
 	"Apple Color Emoji", "Segoe UI Emoji", 
 	"Segoe UI Symbol";
 }
+
+button {
+	padding:5px;
+}
+
