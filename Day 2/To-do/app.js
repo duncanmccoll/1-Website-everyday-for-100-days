@@ -7,7 +7,7 @@ $(document).ready(function(){
 
 	$("input[name=info]").keyup(function(event){
           if(event.keyCode == 13){
-            $(".add").click();
+            $("#add").click();
           }         
       });
 
@@ -15,7 +15,7 @@ $(document).ready(function(){
         $(this).toggleClass('lineThrough').fadeOut('slow');    
       });
 
-	$(".clear").click(function(){
+	$("#clear").click(function(){
 		$("li").fadeOut('slow');
 	});
 	
