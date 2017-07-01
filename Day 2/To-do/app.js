@@ -1,6 +1,6 @@
 $(document).ready(function(){
     	
-	$(".add").click(function(){
+	$("<div class=""></div>add").click(function(){
 		var input = $("input[name=info]").val();
 		var a = $("ol").prepend("<li class='ds'>"+input+"</li>");
 	});

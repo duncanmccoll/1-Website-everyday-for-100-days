@@ -5,7 +5,20 @@ html {
 	"Segoe UI Symbol";
 }
 
-button {
-	padding:5px;
+body{
+	padding-top: 100px;
+	line-height: 1;
+	background-color:#fff;
 }
 
+button {
+	padding:10px;
+}
+
+#container{
+	margin:auto;
+	width: 50%;
+	min-width: 100px;
+	max-width:100px;
+	text-align: center;
+}
