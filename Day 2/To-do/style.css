@@ -24,7 +24,7 @@ h1{
 	padding-left: 20px;
 
 }
-.add, .clear{
+#add, #clear{
 	cursor: pointer;
 
 }
