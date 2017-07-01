@@ -8,6 +8,8 @@ I will be making one website everyday for 100 days, starting 28th of June 2017.
 
 [Day 2](https://duncanmccoll.github.io/100-Websites-in-100-Days/Day%202/To-do/index.html "Day 2")
 
+[Day 3](https://duncanmccoll.github.io/100-Websites-in-100-Days/Day%203/ "Day 3")
+
 ### Misc
 
 [My Workspace](http://i.imgur.com/yZIp6gw.png "Workspace")
