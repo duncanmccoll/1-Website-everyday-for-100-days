@@ -1,3 +1,3 @@
 $( document ).ready(function() {
-   $("li").sortable();
+   $("ul").sortable();
 });

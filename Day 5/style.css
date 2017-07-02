@@ -1,5 +1,17 @@
-img {
-	width: 100px;
-	height: 100px;
+#container {
+	max-width: 500px;
+	min-width: 500x;
+	margin: auto;
+	width:50%;
+	text-align: center;
+	padding: 30px;
 }
-#draggable { width: 150px; height: 150px; padding: 0.5em; background-color:red; }
+
+li{
+	list-style: none;
+}
+
+#drag{
+	margin:30px;
+	padding: 10px;
+}
